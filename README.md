@@ -28,7 +28,7 @@ MASTODON_URL=
 あとは、`face_under_construction`ディレクトリをzip形式で圧縮してAWS lambdaへとアップロードします
 
 # ライセンス
-[MIT](./LICENSE)
+[MIT](./LISENCE)
 
 
 
