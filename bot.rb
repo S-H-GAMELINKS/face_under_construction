@@ -1,6 +1,3 @@
-load_paths = Dir["/vendor/bundle/ruby/2.5.0/gems/2.5.0/**/lib"]
-$LOAD_PATH.unshift(*load_paths)
-
 require "dotenv"
 require "json"
 require 'mastodon'
