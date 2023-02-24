@@ -3,7 +3,7 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # Using Mastodon API
-gem 'mastodon-api', '1.1.0'
+gem 'mastodon-api', git: 'https://github.com/S-H-GAMELINKS/mastodon-api.git', branch: 'support/after_2.7_3.1_ruby'
 
 # Using dotenv-rails
 gem 'dotenv-rails'
