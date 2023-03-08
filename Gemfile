@@ -7,3 +7,6 @@ gem 'mastodon-api', git: 'https://github.com/S-H-GAMELINKS/mastodon-api.git', br
 
 # Using dotenv-rails
 gem 'dotenv-rails'
+
+# Using clockwork
+gem 'clockwork'
