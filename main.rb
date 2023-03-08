@@ -1,5 +1,5 @@
-require "dotenv"
-require "json"
+require 'dotenv'
+require 'json'
 require 'mastodon'
 
 Dotenv.load
